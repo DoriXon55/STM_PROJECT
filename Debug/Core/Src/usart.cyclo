@@ -1,0 +1,6 @@
+../Core/Src/usart.c:27:6:UART_SendData	3
+../Core/Src/usart.c:45:6:MX_USART2_UART_Init	2
+../Core/Src/usart.c:75:6:HAL_UART_MspInit	3
+../Core/Src/usart.c:119:6:HAL_UART_MspDeInit	2
+../Core/Src/usart.c:145:6:HAL_UART_RxCpltCallback	2
+../Core/Src/usart.c:154:6:HAL_UART_TxCpltCallback	3
